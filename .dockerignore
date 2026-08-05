@@ -1,0 +1,14 @@
+# Git repositories and archive files
+.git/
+.gitignore
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+LICENSE
+README.md
+
+# Local data & environment
+data/
+backups/
+.env

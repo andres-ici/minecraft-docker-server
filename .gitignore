@@ -1,0 +1,6 @@
+# Minecraft server data & runtime files
+data/
+backups/
+
+# Environment files
+.env
