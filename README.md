@@ -21,6 +21,12 @@ Para ejecutar este servidor, necesitas tener instalado:
    ```bash
    docker compose ps
    ```
+
+4. Enable interactive console
+
+   ```bash
+   docker attach <container_name>
+   ```
    
 4. Para apagar el servidor
    ```bash

@@ -6,6 +6,7 @@ services:
     environment:
       EULA: "true"
       TYPE: PAPER
+      VERSION: 26.2
       MEMORY: 4G
     ports:
       - "25565:25565"
